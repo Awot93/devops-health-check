@@ -3,7 +3,7 @@
 # Name: WAHEED OLADUNJOYE
 # Date: 21 September 2026
 # Script: devops-health-check.sh
-# Version: 2.0
+# Version: 1.0
 # Purpose: Linux server health monitoring
 
 #Handling Error
